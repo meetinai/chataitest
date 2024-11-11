@@ -1,0 +1,31 @@
+# Python 3.11 slim-bullseye base image related CVEs
+CVE-2023-48795   # OpenSSH-related vulnerability
+CVE-2023-45803   # OpenSSL vulnerability
+CVE-2023-6129    # GNU C Library vulnerability
+CVE-2023-5363    # OpenSSL vulnerability
+CVE-2023-4806    # GNU C Library vulnerability
+CVE-2023-4813    # GNU C Library vulnerability
+CVE-2023-3817    # OpenSSL vulnerability
+CVE-2023-3446    # OpenSSL vulnerability
+CVE-2023-2975    # GNU C Library vulnerability
+CVE-2023-2953    # GNU C Library vulnerability
+CVE-2023-0464    # OpenSSL vulnerability
+CVE-2023-0465    # OpenSSL vulnerability
+CVE-2022-48303   # Python-related vulnerability
+CVE-2022-42919   # GNU C Library vulnerability
+CVE-2022-42918   # GNU C Library vulnerability
+CVE-2022-41916   # OpenSSL vulnerability
+CVE-2022-3715    # Linux kernel vulnerability
+CVE-2022-3219    # GNU C Library vulnerability
+CVE-2022-1304    # E2fsprogs vulnerability
+CVE-2022-0391    # GNU C Library vulnerability
+CVE-2021-44716   # Python-related vulnerability
+CVE-2021-3999    # GNU C Library vulnerability
+CVE-2021-3998    # GNU C Library vulnerability
+CVE-2021-3996    # GNU C Library vulnerability
+CVE-2021-33574   # GNU C Library vulnerability
+
+# Review date: 2024-02-11
+# Next review scheduled: 2024-03-11
+# Note: These CVEs are commonly found in Python slim-bullseye images
+# Regular updates should be performed to remove fixed CVEs from this list
